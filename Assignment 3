@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Sanjivani University</h2>
+<form>
+<label for="fname">First name:</label><br> 
+<input type="text" id="fname" name="fname" value=""><br> 
+<label for="lname">Last name:</label><br> 
+<input type="text" id="lname" name="lname" value=""><br> 
+<label for="prn">PRN NO.:  </label><br>
+<input type= "value" id="prn"  name="prn" value=""><br>
+<h3>Studing in</h3> 
+<input type="radio" id="fy" name="year" value="FY"> 
+<label for="fy">FY</label><br>
+<input type="radio" id="sy" name="year" value="SY"> 
+<label for="sy">SY</label><br>
+<input type="radio" id="ty" name="year" value="TY">
+<label for="ty">TY</label><br><br>
+  <input type="submit" value="Submit">
+
+</form>
+</body>
+</html>
